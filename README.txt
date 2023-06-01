@@ -5,7 +5,7 @@ BEGINNING OF BOX 2
 
 END OF BOX 2
 BEGINNING OF BOX 3
-
+Gertrude has written something.
 END OF BOX 3
 BEGINNING OF BOX 4
 
