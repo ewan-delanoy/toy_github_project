@@ -1,19 +1,16 @@
 BEGINNING OF BOX 1
-Line 1 by Calvin.
+
 END OF BOX 1
 BEGINNING OF BOX 2
-Line 2 by Hobbes.
+
 END OF BOX 2
 BEGINNING OF BOX 3
-Line 3 by Calvin.
+
 END OF BOX 3
 BEGINNING OF BOX 4
-Line 4 by Hobbes.
+
 END OF BOX 4
 BEGINNING OF BOX 5
-Line 5 by Calvin.
+
 END OF BOX 5
-BEGINNING OF BOX 6
-Line 6 by Hobbes.
-END OF BOX 6
 
