@@ -1,7 +1,19 @@
-This is a README file.
+BEGINNING OF BOX 1
 
-Garfield said : "I am Garfield".
+END OF BOX 1
+BEGINNING OF BOX 2
 
-Garfield later said : "This is the 2nd time I am Garfield"
+END OF BOX 2
+BEGINNING OF BOX 3
 
-Later, Garfield said : "This is the 3d time I am Garfield"
+END OF BOX 3
+BEGINNING OF BOX 4
+
+END OF BOX 4
+BEGINNING OF BOX 5
+
+END OF BOX 5
+BEGINNING OF BOX 6
+
+END OF BOX 6
+
